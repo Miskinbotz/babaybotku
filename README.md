@@ -9,7 +9,7 @@
 # Instalasi
 ## SEKEN DULU (STEP 1)
 ```bash
-git clone https://github.com/Nolimit12m/babaybotku.git
+git clone https://github.com/Miskinbotz/babaybotku.git
 cd babaybotku
 npm install
 npm start
